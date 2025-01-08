@@ -23,5 +23,5 @@ Usage:
 3. Install the required dependencies:
 
 ```
-bash pip install openai speech_recognition pyaudio
+$ bash pip install openai speech_recognition pyaudio
 ```
