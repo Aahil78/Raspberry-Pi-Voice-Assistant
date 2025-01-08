@@ -25,3 +25,8 @@ Usage:
 ```shell
 $ pip install openai speech_recognition pyaudio
 ```
+4. Run the script:
+  ```shell
+$ chmod +x main.py
+$ python main.py
+```
