@@ -22,6 +22,6 @@ Usage:
 2. Replace `YOUR_ASSISTANT_ID` with your assistant ID from OpenAI.
 3. Install the required dependencies:
 
-```bash
+```shell
 $ pip install openai speech_recognition pyaudio
 ```
