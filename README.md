@@ -21,3 +21,7 @@ Usage:
 1. Set your OpenAI API key as an environment variable named `OPENAI_API_KEY`.
 2. Replace `YOUR_ASSISTANT_ID` with your assistant ID from OpenAI.
 3. Install the required dependencies:
+
+```
+bash pip install openai speech_recognition pyaudio
+```
