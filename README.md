@@ -26,10 +26,18 @@ $ export OPENAI_API_KEY = your_api_key
 3. Install the required dependencies:
 
 ```shell
-$ pip install openai speech_recognition pyaudio
+$ pip install openai speech_recognition pyaudio subprocess os json datetime
 ```
-4. Run the script:
+4. Install the Piper TTS Model:
+   - Go to (link)[https://github.com/rhasspy/piper/blob/master/VOICES.md] and choose a voice that is fine for your lanuage, then download the model and replace the path in the code to the path where your model is at. Also make sure to specify the file too e.g
+ ```shell
+models/en_US-john-medium.omnx
+```
+5. Specify the memory file diirectory:
+   - Create a file named memory.json or simmilar, then specify the directory to the file with the file included. This is where the conversation will be saved for memory and logs.
+7. Run the script:
   ```shell
 $ chmod +x main.py
 $ python main.py
 ```
+7. That's it!
