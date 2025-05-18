@@ -55,4 +55,4 @@ $ python main.py
 - Power Supply/PiSugar (Preferrably the PiSugar or UPS for portability)
 - A case to fit all the hardware (Designed)
 - Optional: Additional Hardware (Sensors, Relays, etc.) if you want a customized A.I
-- Optional:
+- Optional: AI Accelerator for camera
