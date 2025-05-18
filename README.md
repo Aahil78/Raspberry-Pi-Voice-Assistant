@@ -40,4 +40,19 @@ models/en_US-john-medium.omnx
 $ chmod +x main.py
 $ python main.py
 ```
-7. That's it!
+8. That's it!
+
+## Bill of Materials
+- Raspberry Pi 5
+- 5/7" DSI/HDMI LCD
+- Raspberry Pi Audio HAT
+- NvMe HAT
+- Speakers
+- USB Mic
+- NvMe SSD
+- Raspberry Pi Cooler
+- OpenAI and Picovoice credits (Or if you're using a different API then credits for those)
+- Power Supply/PiSugar (Preferrably the PiSugar or UPS for portability)
+- A case to fit all the hardware (Designed)
+- Optional: Additional Hardware (Sensors, Relays, etc.) if you want a customized A.I
+- Optional:
